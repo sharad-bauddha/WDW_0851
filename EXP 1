@@ -1,4 +1,4 @@
-Experiment 1\Experiment 1.html
+
  <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -40,5 +40,39 @@ engineering, and <u>emergency technologies</u></p>
  <dt><b>AI</b></dt>
  <dd>Arificial Intelligence,the study of intelligent machines </dd>
  <dt><b>DBMS</b></dt>
+<dd>Database Management System,software to handle databases.</dd>
+ <dt><b>OS</b></dt>
+10/21/26, 9:14 PM Experiment 1.html
+localhost:55312/b582c154-fbbf-4165-a583-611a942c9d38/ 1/2 40 <dd>Operating System,Software managing hardware resources.</dd>
+</dl>
+ <h3>Effective Subjects(Nested List)</h3>
+ <ul>
+ <li>Artificial Intelligence</li>
+ <ol>
+ <li>Machine Learning</li>
+ <li>Deep Learning</li>
+ </ol>
+ <li>Data Science</li>
+ <ol>
+ <li>Statistics</li>
+ <li>Data Visualisation</li>
+ </ol>
+ </ul>
+ <h3>Lab Curriculum(Mixed List)</h3>
+ <ol>
+ <li>Programing Lab</li>
+ <ul>
+ <li>C lab</li>
+ <li>Python Lab</li>
+ </ul>
+ <li>Electronics Lab</li>
+ <ul>
+ <li>Digital Manufacturing Lab</li>
+ <li>Microprocessor Lab</li>
+ </ul>
+ </ol>
+ </main>
+ </body>
+ </html>
 
          
