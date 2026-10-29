@@ -23,5 +23,59 @@ width="100%" height="100%" Border="n">
  </thead>
  <tr>
  <th>Monday</th>
- <td rowspan="2" 
+ <td rowspan="2" class="Mathematics">Mathematics</td>
+ <td class="English">English</td>
+ <td rowspan="3" class="Physics">Physics</td>
+ <td class="break">Break</td>
+ <td colspan="2" class="Lab">Computer Lab</td>
+ <td class="sports">Sports Lecture</td>
+ </tr>
+ <tr>
+ <th>Tuesday</th>
+ <td class="C programming">C programming</td>
+ <td class="brk">Break</td>
+ <td colspan="2" class="lab">Electronics Lab</td>
+ <td class="Library">Library</td>
+ </tr>
+ <tr>
+     <th>Wednesday</th>
+     <td class="Maths">Mathematics</td>
+      <td class="English">English</td>
+ <td class="brk">Break</td>
+ <td class="network">Computer Network</td>
+ <td colspan="2">
+ <table class="Nested" Border="n">
+ <caption><b><h1>Lab Deatails</h1></b></caption>
+ <tr>
+ <td>Batch A</td>
+ <td>DBMS Lab</td>
+ </tr>
+ <tr>
+ <td>Batch B</td>
+ <td>OS Lab</td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ <tr>
+ <th>Thrusday</th>
+ <td colspan="2" class="workshop">Workshop</td>
+ <td class="physics">Physics</td>
+ <td class="brk">Break</td>
+ <td class="Maths">Mathematics</td>
+ <td class="english">English</td>
+ <td class="seminar">Seminar</td>
+ <tr>
+ <th>Friday</th>
+ <td class="network">Computer Network</td>
+ <td class="eng">English</td>
+ <td class="phy">Physics</td>
+ <td class="brk">Break</td>
+ <td colspan="3" class="work">Project Work</td>
+ </tr>
+ </tbody>
+ </table>
+ </body>
+ </html> 
+
             
