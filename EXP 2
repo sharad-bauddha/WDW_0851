@@ -12,3 +12,14 @@ scale=1.0">
 <p >Your Trusted
 Source for Latest Updates</p>
  <hr>
+<nav>
+     <a href="#world">World</a> |
+     <a href="#sports">Sports</a> |
+     <a href="#entertainment">Entertainment</a> |
+      <a href="#podcat">Podcast</a> |
+ <a href="#contact">Contact</a>
+ </nav>
+ </div>
+ </header>
+   <hr>
+
