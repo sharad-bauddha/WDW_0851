@@ -1,22 +1,23 @@
 Experiment 1\Experiment 1.html
-1 <!DOCTYPE html>
-2 <html lang="en">
-3 <head>
-4 <meta charset="UTF-8">
-5 <TITLE>B.Tech Computer Science - Course Curriculum</TITLE>
-6 </head>
-7 <body>
-8 <header>
-9 <h1 style="text-align: center">B.Tech Computer Science - Course
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <TITLE>B.Tech Computer Science - Course Curriculum</TITLE>
+ </head>
+ <body>
+ <header>
+ <h1 style="text-align: center">B.Tech Computer Science - Course
 Curriculum</h1>
-10 <p style="text-align: center; font-size: 22px;"><b>Session</b>
+ <p style="text-align: center; font-size: 22px;"><b>Session</b>
 2026-2030 ABES Engineering College Ghaziabad</p>
-11 </header>
-12 <main>
+ </header>
+<main>
  <h1>Introduction</h1>
-14 <p>The<b>Bachelor of Technology in Computer Science</b> is designed
+ <p>The<b>Bachelor of Technology in Computer Science</b> is designed
 provide students with strong foundations in computer science,software
 engineering, and <u>emergency technologies</u></p>
-15 <h2>Semester 1 Subjects</h2>
+ <h2>Semester 1 Subjects</h2>
+
 
          
