@@ -9,8 +9,8 @@
 
     <!-- heading -->
     <h1> Hello, Web!</h1>
-   <b> <!-- paragraph -->
-    <p> This is my first HTML page.</p><b>
-
+  <hr>  <!-- paragraph -->
+    <p> This is my first HTML page.</p>
+<hr>
 </body>
 </html>
