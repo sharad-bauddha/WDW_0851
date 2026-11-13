@@ -6,11 +6,11 @@
     <title>Assignment 1: HTML Page Structure and Comments</title>
 </head>
 <body>
-    
+
     <!-- heading -->
     <h1> Hello, Web!</h1>
-    <!-- paragraph -->
-    <p> This is my first HTML page.</p>
+   <b> <!-- paragraph -->
+    <p> This is my first HTML page.</p><b>
 
 </body>
 </html>
