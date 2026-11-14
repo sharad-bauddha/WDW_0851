@@ -17,5 +17,22 @@
           <mark>mark</mark>, 
           H<sub>2</sub>O, x<sup>2</sup>    
     </p>
+<p>
+        &copy;     
+        &reg;     
+        &trade;   
+        &lt;tag&gt; 
+        &amp;      
+        &euro;     
+        &#8377;     
+        &hearts;  
+    </p>
+<hr>
+
+ 
+    <p>
+        Line one<br>   
+        Line two
+    </p>
 </body>
 </html>
